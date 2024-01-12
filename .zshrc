@@ -26,6 +26,7 @@ alias tfg="terraform graph"
 
 # git aliases
 alias cdg="cd ~/Git"
+alias gpu="git pull"
 alias gs="clear && git status"
 alias gd="git diff"
 alias gmm="git commit -m"
